@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 function HeaderComponent() {
     return (
@@ -21,7 +22,7 @@ function HeaderComponent() {
                             <li className="nav-item"><a className="nav-link" href="#team">team </a></li>
                             <li className="nav-item dropdown"><a className="nav-link dropdown-toggle" href="#news" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog </a>
                                 <ul className="dropdown-menu">
-                                    <li className="nav-item"><a className="nav-link" href="blog.html">blog list </a></li>
+                                    <li className="nav-item"><Link to ='/blog'>blog list </Link></li>
                                     <li className="nav-item"><a className="nav-link" href="blog-details.html">blog details </a></li>
                                     <li className="nav-item"><a className="nav-link" href="blogs-leftside.html">leftsidebar </a></li>
                                     <li className="nav-item"><a className="nav-link" href="blogs-rightside.html">rightsidebar </a></li>
