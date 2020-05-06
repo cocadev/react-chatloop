@@ -1,46 +1,19 @@
-<!DOCTYPE html>
- <html lang="en">
-   <head>
-<!-- Original URL: http://themes.pixelstrap.com/chatloop/pages/ltr/index-7.html
-Date Downloaded: 5/6/2020 3:00:31 PM !-->
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-     <title>Chatloop | Mobile App _______ HTML Templates </title>
-     <meta charset="utf-8" />
-     <meta name="description" content="Chat Loop Apps Template from pixelstrap" />
-     <meta name="keywords" content="Chat Loop Apps Template from pixelstrap" />
-     <meta name="author" content="App" />
-     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-     <!-- favicon-->
-     <link rel="shortcut icon" href="../../assets/images/color-7/favicon.png" />
-     <!-- Font Family-->
-     <link href="../../../../fonts.googleapis.com/css_e5ba3bda.css" rel="stylesheet" />
-     <!-- Bootstrap CSS-->
-     <link rel="stylesheet" href="../../assets/css/bootstrap.min.css" />
-     <!-- Animation CSS-->
-     <link rel="stylesheet" href="../../assets/css/animate.min.css" />
-     <!-- Owl carousel .css-->
-     <link rel="stylesheet" href="../../assets/css/owl.carousel.min.css" />
-     <link rel="stylesheet" href="../../assets/css/owl.theme.default.min.css" />
-     <!-- font-awesome css-->
-     <link rel="stylesheet" href="../../assets/css/font-awesome.min.css" />
-     <!-- swiper slider-->
-     <link rel="stylesheet" href="../../assets/css/swiper.min.css" />
-     <!-- Style .css-->
-     <link id="color" rel="stylesheet" href="../../assets/css/color7.css" media="screen" />
-   </head>
-   <body data-spy="scroll" data-target=".navbar" data-offset="75">
-     <!-- loader-->
-     <div class="loader-wrapper">
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div>
+      <div class="loader-wrapper">
        <div id="loader">
          <div id="shadow"></div>
          <div id="box"></div>
        </div>
      </div>
-     <!-- loader end-->
-     <!-- Nav start-->
+
+
      <nav class="navbar navbar-expand-lg theme-nav fixed-top">
-       <div class="container"><a class="navbar-brand" href="index.html"><img src="../../assets/images/logo.png" alt="logo" /></a>
+       <div class="container"><a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo" /></a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainmenu" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"><i class="fa fa-align-justify" aria-hidden="true"></i></span></button>
          <div class="collapse navbar-collapse" id="mainmenu">
            <ul class="navbar-nav ml-auto" id="mymenu">
@@ -78,8 +51,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </nav>
-     <!-- Nav end-->
-     <!-- slider-section-->
+
+
      <section class="slide-bg" id="home">
        <div class="animation-circle"><i></i><i></i><i></i></div>
        <div class="container">
@@ -90,26 +63,26 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                  <div>
                    <h1>The best way to _______ with your friends is ____ <span class="main-title">  ChatLoop! </span></h1>
                    <h4>Lorem Ipsum is simply _____ text of the printing ___ typesetting industry.  </h4>
-                   <div class="slid-btn"><a href="#"><img class="img-fluid" src="../../assets/images/color-7/app1.png" alt="app1" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></a><a href="#"><img class="img-fluid" src="../../assets/images/color-7/app2.png" alt="app2" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></a></div>
+                   <div class="slid-btn"><a href="#"><img class="img-fluid" src="images/app1.png" alt="app1" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></a><a href="#"><img class="img-fluid" src="images/app2.png" alt="app2" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></a></div>
                  </div>
                </div>
              </div>
            </div>
            <div class="col-md-6">
              <div class="home-right">
-               <div class="mobile-slid"><img class="img-fluid" src="../../assets/images/color-7/top-mobile.png" alt="top1" /></div>
-               <div class="profile-msg"><img class="img-fluid" src="../../assets/images/top2.png" alt="top2" /></div>
-               <div class="awesome"><img class="img-fluid" src="../../assets/images/color-7/top3.png" alt="top3" /></div>
-               <div class="profile-1"><img class="img-fluid" src="../../assets/images/color-7/top4.png" alt="top4" /></div>
-               <div class="emoji"><img class="img-fluid" src="../../assets/images/top5.png" alt="top5" /></div>
-               <div class="profile-2"><img class="img-fluid" src="../../assets/images/color-7/top1.png" alt="top1" /></div>
+               <div class="mobile-slid"><img class="img-fluid" src="images/top-mobile.png" alt="top1" /></div>
+               <div class="profile-msg"><img class="img-fluid" src="images/top2.png" alt="top2" /></div>
+               <div class="awesome"><img class="img-fluid" src="images/top3.png" alt="top3" /></div>
+               <div class="profile-1"><img class="img-fluid" src="images/top4.png" alt="top4" /></div>
+               <div class="emoji"><img class="img-fluid" src="images/top5.png" alt="top5" /></div>
+               <div class="profile-2"><img class="img-fluid" src="images/top1.png" alt="top1" /></div>
              </div>
            </div>
          </div>
        </div>
      </section>
-     <!-- end slider section-->
-     <!-- about section-->
+
+
      <section class="pb-0 about" id="about">
        <div class="about-chat">
          <div class="container">
@@ -123,22 +96,22 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
              <div class="col-md-12 about-box">
                <div class="row">
                  <div class="col-lg-3 col-sm-6 about-border">
-                   <div class="chat-box">                           <img src="../../assets/images/color-7/stay-connected.png" alt="stay-connected" />
+                   <div class="chat-box">                           <img src="images/stay-connected.png" alt="stay-connected" />
                      <h3 class="sub-title">Stay Connected </h3>
                    </div>
                  </div>
                  <div class="col-lg-3 col-sm-6 about-border">
-                   <div class="chat-box"><img src="../../assets/images/color-7/get-notified.png" alt="get-notified" />
+                   <div class="chat-box"><img src="images/get-notified.png" alt="get-notified" />
                      <h3 class="sub-title"> Get Notified </h3>
                    </div>
                  </div>
                  <div class="col-lg-3 col-sm-6 about-border">
-                   <div class="chat-box"><img src="../../assets/images/color-7/stay-updated.png" alt="stay-updated" />
+                   <div class="chat-box"><img src="images/stay-updated.png" alt="stay-updated" />
                      <h3 class="sub-title">Stay Updated </h3>
                    </div>
                  </div>
                  <div class="col-lg-3 col-sm-6">
-                   <div class="chat-box"><img src="../../assets/images/color-7/mini-world.png" alt="mini-world" />
+                   <div class="chat-box"><img src="images/mini-world.png" alt="mini-world" />
                      <h3 class="sub-title">Mini World </h3>
                    </div>
                  </div>
@@ -152,10 +125,10 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
            </div>
          </div>
        </div>
-       <div class="container-fluid text-center"><img class="img-fluid full-banner" src="../../assets/images/color-7/banner.png" alt="banner.png" /></div>
+       <div class="container-fluid text-center"><img class="img-fluid full-banner" src="images/banner.png" alt="banner.png" /></div>
      </section>
-     <!-- end about section-->
-     <!-- Feature section-->
+
+
      <section class="theme-bg feature" id="feature">
        <div class="container">
          <div class="animation-circle-inverse"><i></i><i></i><i></i></div>
@@ -190,7 +163,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                </div>
              </div>
            </div>
-           <div class="col-md-4 future-mobile"><img class="img-fluid" src="../../assets/images/color-7/feature-mob.png" alt="feature-mob" /></div>
+           <div class="col-md-4 future-mobile"><img class="img-fluid" src="images/feature-mob.png" alt="feature-mob" /></div>
            <div class="col-lg-4 col-sm-6">
              <div class="future-box">
                <div class="future-timeline-right">
@@ -218,8 +191,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end Feature section-->
-     <!-- work section-->
+
+
      <section class="work" id="work">
        <div class="container">
          <div class="row">
@@ -548,7 +521,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end work section-->
+     
+     
      <section class="theme-bg screenshots" id="screenshots">
        <div class="animation-circle"><i></i><i></i><i></i></div>
        <div class="container">
@@ -564,19 +538,20 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
            <div class="col-sm-12">
              <div class="swiper-screenshots-container-1 swiper-container">
                <div class="swiper-wrapper">
-                 <div class="swiper-slide"><img src="../../assets/images/color-7/ss/1.png" alt="1" /></div>
-                 <div class="swiper-slide"><img src="../../assets/images/color-7/ss/2.png" alt="2" /></div>
-                 <div class="swiper-slide"><img src="../../assets/images/color-7/ss/3.png" alt="3" /></div>
-                 <div class="swiper-slide"><img src="../../assets/images/color-7/ss/4.png" alt="4" /></div>
-                 <div class="swiper-slide"><img src="../../assets/images/color-7/ss/1.png" alt="5" /></div>
-                 <div class="swiper-slide"><img src="../../assets/images/color-7/ss/2.png" alt="5" /></div>
+                 <div class="swiper-slide"><img src="images/ss/1.png" alt="1" /></div>
+                 <div class="swiper-slide"><img src="images/ss/2.png" alt="2" /></div>
+                 <div class="swiper-slide"><img src="images/ss/3.png" alt="3" /></div>
+                 <div class="swiper-slide"><img src="images/ss/4.png" alt="4" /></div>
+                 <div class="swiper-slide"><img src="images/ss/1.png" alt="5" /></div>
+                 <div class="swiper-slide"><img src="images/ss/2.png" alt="5" /></div>
                </div>
              </div>
            </div>
          </div>
        </div>
      </section>
-     <!-- team section-->
+
+
      <section class="team-bg" id="team">
        <div class="animation-circle-inverse"><i></i><i></i><i></i></div>
        <div class="container">
@@ -592,7 +567,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                <div class="item">
                  <div class="team-box">
                    <div class="team-under-box">
-                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="../../assets/images/1.jpg" alt="1" />
+                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="images/1.jpg" alt="1" />
                      <div class="team-overlay">
                        <div class="social-icon">
                          <ul>
@@ -610,7 +585,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                <div class="item">
                  <div class="team-box">
                    <div class="team-under-box">
-                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="../../assets/images/2.jpg" alt="2" />
+                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="images/2.jpg" alt="2" />
                      <div class="team-overlay">
                        <div class="social-icon">
                          <ul>
@@ -628,7 +603,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                <div class="item">
                  <div class="team-box">
                    <div class="team-under-box">
-                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="../../assets/images/3.jpg" alt="3" />
+                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="images/3.jpg" alt="3" />
                      <div class="team-overlay">
                        <div class="social-icon">
                          <ul>
@@ -646,7 +621,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                <div class="item">
                  <div class="team-box">
                    <div class="team-under-box">
-                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="../../assets/images/2.jpg" alt="2" />
+                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="images/2.jpg" alt="2" />
                      <div class="team-overlay">
                        <div class="social-icon">
                          <ul>
@@ -664,7 +639,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                <div class="item">
                  <div class="team-box">
                    <div class="team-under-box">
-                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="../../assets/images/1.jpg" alt="1" />
+                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="images/1.jpg" alt="1" />
                      <div class="team-overlay">
                        <div class="social-icon">
                          <ul>
@@ -682,7 +657,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                <div class="item">
                  <div class="team-box">
                    <div class="team-under-box">
-                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="../../assets/images/2.jpg" alt="2" />
+                     <div class="team-under-box-button text-white"><i class="fa fa-plus" aria-hidden="true"></i></div><img class="img-fluid" src="images/2.jpg" alt="2" />
                      <div class="team-overlay">
                        <div class="social-icon">
                          <ul>
@@ -703,7 +678,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
              <div class="team-hover">
                <div class="row">
                  <div class="col-md-4">
-                   <div class="team-profile"><img class="img-fluid" src="../../assets/images/1.jpg" alt="1" /></div>
+                   <div class="team-profile"><img class="img-fluid" src="images/1.jpg" alt="1" /></div>
                  </div>
                  <div class="col-md-8">
                    <div class="d-flex-1">
@@ -722,8 +697,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end team section-->
-     <!-- package section-->
+
+
      <section class="theme-bg" id="package">
        <div class="container">
          <div class="row">
@@ -830,8 +805,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end package section-->
-     <!-- testimonail page-->
+
+
      <section class="testimonial" id="testimonial">
        <div class="animation-circle-inverse"><i></i><i></i><i></i></div>
        <div class="container">
@@ -841,7 +816,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                <div class="testimonial-slider owl-carousel owl-theme">
                  <div class="item testi-profile">
                    <div class="media">
-                     <div class="animated-circle"><img class="img-fluid align-self-center" src="../../assets/images/color-7/1.png" alt="1" /></div>
+                     <div class="animated-circle"><img class="img-fluid align-self-center" src="images/1.png" alt="1" /></div>
                      <div class="media-body">
                        <h3 class="mt-0 sub-title">Mark Jecno  (Designer & Devloper) </h3>
                        <p>Cras sit amet nibh ______, in gravida nulla. Nulla ___ metus scelerisque ante sollicitudin. ____ purus odio, vestibulum in _________ at, tempus viverra turpis. _____ condimentum nunc ac nisi _________ fringilla. Donec lacinia congue _____ in faucibus. </p>
@@ -850,7 +825,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                  </div>
                  <div class="item testi-profile">
                    <div class="media">
-                     <div class="animated-circle"><img class="img-fluid align-self-center" src="../../assets/images/color-7/1.png" alt="1" /></div>
+                     <div class="animated-circle"><img class="img-fluid align-self-center" src="images/1.png" alt="1" /></div>
                      <div class="media-body">
                        <h3 class="mt-0 sub-title">Mark Jecno  (Designer & Devloper) </h3>
                        <p>Cras sit amet nibh ______, in gravida nulla. Nulla ___ metus scelerisque ante sollicitudin. ____ purus odio, vestibulum in _________ at, tempus viverra turpis. _____ condimentum nunc ac nisi _________ fringilla. Donec lacinia congue _____ in faucibus. </p>
@@ -859,7 +834,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                  </div>
                  <div class="item testi-profile">
                    <div class="media">
-                     <div class="animated-circle"><img class="img-fluid align-self-center" src="../../assets/images/color-7/1.png" alt="1" /></div>
+                     <div class="animated-circle"><img class="img-fluid align-self-center" src="images/1.png" alt="1" /></div>
                      <div class="media-body">
                        <h3 class="mt-0 sub-title">Mark Jecno  (Designer & Devloper) </h3>
                        <p>Cras sit amet nibh ______, in gravida nulla. Nulla ___ metus scelerisque ante sollicitudin. ____ purus odio, vestibulum in _________ at, tempus viverra turpis. _____ condimentum nunc ac nisi _________ fringilla. Donec lacinia congue _____ in faucibus. </p>
@@ -872,8 +847,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end testimonial section-->
-     <!-- FAQ section-->
+
+
      <section class="theme-bg faq" id="faq">
        <div class="container">
          <div class="row">
@@ -929,12 +904,12 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                </div>
              </div>
            </div>
-           <div class="col-lg-6 text-center"><img class="img-fluid" src="../../assets/images/color-7/faq.png" alt="" /></div>
+           <div class="col-lg-6 text-center"><img class="img-fluid" src="images/faq.png" alt="" /></div>
          </div>
        </div>
      </section>
-     <!-- end FAQ section-->
-     <!-- news section-->
+
+
      <section class="team-bg" id="news">
        <div class="animation-circle-inverse"><i></i><i></i><i></i></div>
        <div class="container">
@@ -952,7 +927,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
            <div class="col-md-12">
              <div class="news-slider owl-carousel owl-theme">
                <div class="item news-slid">
-                 <div class="news-box"><a href="blog-details.html"><img class="img-fluid" src="../../assets/images/blog/1.jpg" alt="news-1" /></a>
+                 <div class="news-box"><a href="blog-details.html"><img class="img-fluid" src="images/blog/1.jpg" alt="news-1" /></a>
                    <div class="blog-hover">
                      <h4>lorem ipsum dolor sit ____ </h4>
                      <ul class="list-inline blog-details-list">
@@ -968,7 +943,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                  </div>
                </div>
                <div class="item news-slid">
-                 <div class="news-box"><a href="blog-details.html"><img class="img-fluid" src="../../assets/images/blog/2.jpg" alt="news-1" /></a>
+                 <div class="news-box"><a href="blog-details.html"><img class="img-fluid" src="images/blog/2.jpg" alt="news-1" /></a>
                    <div class="blog-hover">
                      <h4>lorem ipsum dolor sit ____ </h4>
                      <ul class="list-inline blog-details-list">
@@ -984,7 +959,7 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
                  </div>
                </div>
                <div class="item news-slid">
-                 <div class="news-box"><a href="blog-details.html"><img class="img-fluid" src="../../assets/images/blog/3.jpg" alt="news-1" /></a>
+                 <div class="news-box"><a href="blog-details.html"><img class="img-fluid" src="images/blog/3.jpg" alt="news-1" /></a>
                    <div class="blog-hover">
                      <h4>lorem ipsum dolor sit ____ </h4>
                      <ul class="list-inline blog-details-list">
@@ -1004,13 +979,13 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end news section-->
-     <!-- download section-->
+
+
      <section class="download-bg">
        <div class="container">
          <div class="row">
            <div class="col-xl-3 display-flex">
-             <div class="footer-logo"><img class="img-fluid" src="../../assets/images/footer-logo.png" alt="footer-logo" /></div>
+             <div class="footer-logo"><img class="img-fluid" src="images/footer-logo.png" alt="footer-logo" /></div>
            </div>
            <div class="col-xl-5 display-flex">
              <div class="download-text">
@@ -1020,16 +995,16 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
            <div class="col-xl-4 display-flex">
              <div class="download-img">
                <ul>
-                 <li><img class="img-fluid" src="../../assets/images/color-7/app1.png" alt="foot-app" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></li>
-                 <li><img class="img-fluid" src="../../assets/images/color-7/app2.png" alt="foot-app1" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></li>
+                 <li><img class="img-fluid" src="images/app1.png" alt="foot-app" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></li>
+                 <li><img class="img-fluid" src="images/app2.png" alt="foot-app1" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></li>
                </ul>
              </div>
            </div>
          </div>
        </div>
      </section>
-     <!-- end download section-->
-     <!-- footer-section-->
+
+
      <section class="contact" id="contact">
        <div class="container">
          <div class="row">
@@ -1087,8 +1062,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end footer section-->
-     <!-- subscribe section-->
+
+
      <section class="subscribe-bg">
        <div class="container">
          <div class="row">
@@ -1108,8 +1083,8 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </section>
-     <!-- end subscribe section-->
-     <!-- copy-right-section-->
+
+
      <footer class="cpoy-right-bg">
        <div class="container">
          <div class="row">
@@ -1130,82 +1105,13 @@ Date Downloaded: 5/6/2020 3:00:31 PM !-->
          </div>
        </div>
      </footer>
-     <!-- end copy right section-->
-     <!-- Tap to top-->
+
+     
      <div class="tap-top">
        <div><i class="fa fa-angle-up" aria-hidden="true"></i></div>
      </div>
-     <!-- Tap to top end-->
-     <!-- facebook chat section start-->
-     <div id="fb-root"></div>
-     <script>
-      (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = '../../../../connect.facebook.net/en_US/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
-      fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-    </script>
-     <!-- Your customer chat code-->
-     <div class="fb-customerchat" attribution="setup_tool" page_id="2123438804574660" theme_color="#5f57ea" logged_in_greeting="Hi! Welcome to PixelStrap Themes  How can we help you?" logged_out_greeting="Hi! Welcome to PixelStrap Themes  How can we help you?"></div>
-     <!-- facebook chat section end--><!--[if lt IE 9]>
-<div class="ie-warning">
-<h1>Warning!!</h1>
-<p>You are using an outdated version of Internet Explorer, please upgrade <br />to any of the following web browsers to access this website.</p>
-<div class="iew-container">
-<ul class="iew-download">
-<li>
-<a href="http://www.google.com/chrome/">
-<img src="../../assets/images/browsers/chrome.png" alt="" />
-<div>Chrome</div>
-</a>
-</li>
-<li>
-<a href="https://www.mozilla.org/en-US/firefox/new/">
-<img src="../../assets/images/browsers/firefox.png" alt="" />
-<div>Firefox</div>
-</a>
-</li>
-<li>
-<a href="http://www.opera.com">
-<img src="../../assets/images/browsers/opera.png" alt="" />
-<div>Opera</div>
-</a>
-</li>
-<li>
-<a href="https://www.apple.com/safari/">
-<img src="../../assets/images/browsers/safari.png" alt="" />
-<div>Safari</div>
-</a>
-</li>
-<li>
-<a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">
-<img src="../../assets/images/browsers/ie.png" alt="" />
-<div>IE (9 & above)</div>
-</a>
-</li>
-</ul>
-</div>
-<p>Sorry for the inconvenience!</p>
-</div>
-<![endif]-->
-     <!-- js file-->
-     <script src="../../assets/js/jquery-3.3.1.min.js"></script>
-     <!-- bootstrap js file-->
-     <script src="../../assets/js/bootstrap.min.js"></script>
-     <!-- popper js file-->
-     <script src="../../assets/js/popper.min.js"></script>
-     <!-- Owl carousel js file-->
-     <script src="../../assets/js/owl.carousel.min.js"></script>
-     <!-- tilt js file-->
-     <script src="../../assets/js/tilt.jquery.js"></script>
-     <!-- script js file-->
-     <script src="../../assets/js/script.js"></script>
-     <!-- swiper js-->
-     <script src="../../assets/js/swiper.min.js"></script>
-     <!--home page-->
-     <script src="../../assets/js/scroll.js"></script>
-     <script src="../../assets/js/slider.js"></script>
-   </body>
- </html>
+    </div>
+  );
+}
+
+export default App;
