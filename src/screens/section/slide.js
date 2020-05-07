@@ -12,7 +12,10 @@ export default function SlideSection() {
                                 <div>
                                     <h1>The best way to _______ with your friends is ____ <span className="main-title">  ChatLoop! </span></h1>
                                     <h4>Lorem Ipsum is simply _____ text of the printing ___ typesetting industry.  </h4>
-                                    <div className="slid-btn"><a href="#"><img className="img-fluid" src="images/app1.png" alt="app1" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></a><a href="#"><img className="img-fluid" src="images/app2.png" alt="app2" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" /></a></div>
+                                    <div className="slid-btn">
+                                        <img className="img-fluid" src="images/app1.png" alt="app1" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" />
+                                        <img className="img-fluid" src="images/app2.png" alt="app2" data-tilt="" data-tilt-perspective="50" data-tilt-speed="350" data-tilt-max="1.8" />
+                                    </div>
                                 </div>
                             </div>
                         </div>

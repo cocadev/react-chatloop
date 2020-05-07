@@ -21,11 +21,11 @@ export default function WorkPlaceSection() {
                       <div className="team-overlay">
                         <div className="social-icon">
                           <ul>
-                            <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><i className="fa fa-facebook" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-google-plus" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-twitter" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-instagram" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-rss" aria-hidden="true"></i></li>
                           </ul>
                         </div>
                       </div>
@@ -39,11 +39,11 @@ export default function WorkPlaceSection() {
                       <div className="team-overlay">
                         <div className="social-icon">
                           <ul>
-                            <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><i className="fa fa-facebook" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-google-plus" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-twitter" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-instagram" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-rss" aria-hidden="true"></i></li>
                           </ul>
                         </div>
                       </div>
@@ -57,11 +57,11 @@ export default function WorkPlaceSection() {
                       <div className="team-overlay">
                         <div className="social-icon">
                           <ul>
-                            <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><i className="fa fa-facebook" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-google-plus" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-twitter" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-instagram" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-rss" aria-hidden="true"></i></li>
                           </ul>
                         </div>
                       </div>
@@ -75,11 +75,11 @@ export default function WorkPlaceSection() {
                       <div className="team-overlay">
                         <div className="social-icon">
                           <ul>
-                            <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><i className="fa fa-facebook" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-google-plus" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-twitter" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-instagram" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-rss" aria-hidden="true"></i></li>
                           </ul>
                         </div>
                       </div>
@@ -93,11 +93,11 @@ export default function WorkPlaceSection() {
                       <div className="team-overlay">
                         <div className="social-icon">
                           <ul>
-                            <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><i className="fa fa-facebook" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-google-plus" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-twitter" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-instagram" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-rss" aria-hidden="true"></i></li>
                           </ul>
                         </div>
                       </div>
@@ -111,11 +111,11 @@ export default function WorkPlaceSection() {
                       <div className="team-overlay">
                         <div className="social-icon">
                           <ul>
-                            <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i className="fa fa-rss" aria-hidden="true"></i></a></li>
+                            <li><i className="fa fa-facebook" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-google-plus" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-twitter" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-instagram" aria-hidden="true"></i></li>
+                            <li><i className="fa fa-rss" aria-hidden="true"></i></li>
                           </ul>
                         </div>
                       </div>
@@ -133,7 +133,9 @@ export default function WorkPlaceSection() {
                   <div className="col-md-8">
                     <div className="d-flex-1">
                       <div className="hover-text">
-                        <div className="team-close-btn"><a><i className="fa fa-times" aria-hidden="true"></i></a></div>
+                        <div className="team-close-btn">
+                          <i className="fa fa-times" aria-hidden="true"></i>
+                        </div>
                         <h3>Mark Jecno </h3>
                         <h4 className="m-0 text-muted">Devloper & Designer </h4>
                         <h5>PHP, Laravel, Cake , _________, HTML5  </h5>

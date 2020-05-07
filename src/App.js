@@ -3,6 +3,7 @@ import { createBrowserHistory } from "history";
 import { Router, Route, Switch } from "react-router-dom";
 import MainScreen from "./screens";
 import Header from "./components/header";
+import './App.css'
 
 const hist = createBrowserHistory();
 

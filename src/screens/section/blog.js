@@ -23,10 +23,10 @@ export default function BlogSection() {
                                     <div className="blog-hover">
                                         <h4>lorem ipsum dolor sit ____ </h4>
                                         <ul className="list-inline blog-details-list">
-                                            <li><a href="#">John Doe </a></li>
-                                            <li><a href="#">1 Oct </a></li>
-                                            <li><a href="#">25 comments </a></li>
-                                            <li><a href="#">3 View </a></li>
+                                            <li className="text-white">John Doe</li>
+                                            <li className="text-white">1 Oct</li>
+                                            <li className="text-white">25 comments</li>
+                                            <li className="text-white">3 View</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -39,10 +39,10 @@ export default function BlogSection() {
                                     <div className="blog-hover">
                                         <h4>lorem ipsum dolor sit ____ </h4>
                                         <ul className="list-inline blog-details-list">
-                                            <li><a href="#">John Doe </a></li>
-                                            <li><a href="#">2 Oct </a></li>
-                                            <li><a href="#">25 comments </a></li>
-                                            <li><a href="#">3 View </a></li>
+                                            <li className="text-white">John Doe</li>
+                                            <li className="text-white">2 Oct</li>
+                                            <li className="text-white">25 comments</li>
+                                            <li className="text-white">3 View</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -55,10 +55,10 @@ export default function BlogSection() {
                                     <div className="blog-hover">
                                         <h4>lorem ipsum dolor sit ____ </h4>
                                         <ul className="list-inline blog-details-list">
-                                            <li><a href="#">John Doe </a></li>
-                                            <li><a href="#">3 Oct </a></li>
-                                            <li><a href="#">25 comments </a></li>
-                                            <li><a href="#">3 View </a></li>
+                                            <li className="text-white">John Doe</li>
+                                            <li className="text-white">3 Oct</li>
+                                            <li className="text-white">25 comments</li>
+                                            <li className="text-white">3 View</li>
                                         </ul>
                                     </div>
                                 </div>

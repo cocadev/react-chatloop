@@ -4,25 +4,25 @@ function FooterComponent() {
     return (
         <div>
 
-            <div class="tap-top">
-                <div><i class="fa fa-angle-up" aria-hidden="true"></i></div>
+            <div className="tap-top">
+                <div><i className="fa fa-angle-up" aria-hidden="true"></i></div>
             </div>
-            <footer class="cpoy-right-bg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 text-center">
-                            <div class="social-footer">
+            <footer className="cpoy-right-bg">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-md-12 text-center">
+                            <div className="social-footer">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+                                    <li><i className="fa fa-facebook text-white" aria-hidden="true"></i></li>
+                                    <li><i className="fa fa-google-plus text-white" aria-hidden="true"></i></li>
+                                    <li><i className="fa fa-twitter text-white" aria-hidden="true"></i></li>
+                                    <li><i className="fa fa-instagram text-white" aria-hidden="true"></i></li>
+                                    <li><i className="fa fa-rss text-white" aria-hidden="true"></i></li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-12 text-center">
-                            <p class="copyright">2018-19 Copyright by themeforest _______ by Pixelstrep </p>
+                        <div className="col-md-12 text-center">
+                            <p className="copyright">2018-19 Copyright by themeforest _______ by Pixelstrep </p>
                         </div>
                     </div>
                 </div>

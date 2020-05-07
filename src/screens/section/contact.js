@@ -11,11 +11,11 @@ export default function ContactSection() {
                         </div>
                         <form className="auth-form">
                             <div className="form-group">
-                                <label for="exampleInputName1">Name </label><i className="fa fa-user"></i>
+                                <label htmlFor="exampleInputName1">Name </label><i className="fa fa-user"></i>
                                 <input className="form-control" id="exampleInputName1" required="" name="login[username]" type="email" placeholder="User name" />
                             </div>
                             <div className="form-group">
-                                <label for="exampleInputEmail12">Email </label><i className="fa fa-envelope-o"></i>
+                                <label htmlFor="exampleInputEmail12">Email </label><i className="fa fa-envelope-o"></i>
                                 <input className="form-control" id="exampleInputEmail12" required="" name="login[email]" type="email" placeholder="Email" />
                             </div>
                             <div className="form-group">

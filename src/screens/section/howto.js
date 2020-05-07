@@ -19,7 +19,7 @@ export default function HowToSection() {
                 <div className="row">
                     <div className="col-lg-4 text-center">
                         <div className="process-box">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" width="60px" height="60px">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="60px" height="60px">
                                 <g>
                                     <g>
                                         <path d="M373.399,56.93C371.54,55.07,368.96,54,366.33,54c-2.641,0-5.21,1.07-7.07,2.93c-1.87,1.86-2.93,4.44-2.93,7.07    s1.06,5.21,2.93,7.07c1.86,1.86,4.429,2.93,7.07,2.93c2.63,0,5.21-1.07,7.069-2.93c1.86-1.86,2.931-4.44,2.931-7.07    S375.26,58.79,373.399,56.93z"></path>
@@ -93,7 +93,7 @@ export default function HowToSection() {
                             </svg>
                             <h3>download app </h3>
                             <p>Lorem ipsum dolor sit ____, consectetur adipisicing elit. Molestias ___ nulla placeat, odio </p>
-                            <svg className="bg-icon" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" width="50px" height="50px">
+                            <svg className="bg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="50px" height="50px">
                                 <g>
                                     <g>
                                         <path d="M373.399,56.93C371.54,55.07,368.96,54,366.33,54c-2.641,0-5.21,1.07-7.07,2.93c-1.87,1.86-2.93,4.44-2.93,7.07    s1.06,5.21,2.93,7.07c1.86,1.86,4.429,2.93,7.07,2.93c2.63,0,5.21-1.07,7.069-2.93c1.86-1.86,2.931-4.44,2.931-7.07    S375.26,58.79,373.399,56.93z"></path>
@@ -169,7 +169,7 @@ export default function HowToSection() {
                     </div>
                     <div className="col-lg-4 text-center">
                         <div className="process-box">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" width="60px" height="60px">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="60px" height="60px">
                                 <g>
                                     <g>
                                         <path d="M319.008,281.931c-1.861-1.86-4.44-2.93-7.07-2.93c-2.64,0-5.21,1.069-7.069,2.93c-1.87,1.86-2.931,4.44-2.931,7.07    s1.061,5.21,2.931,7.069c1.859,1.86,4.439,2.931,7.069,2.931s5.21-1.07,7.07-2.931c1.86-1.859,2.93-4.439,2.93-7.069    S320.869,283.791,319.008,281.931z"></path>
@@ -208,7 +208,7 @@ export default function HowToSection() {
                             </svg>
                             <h3>conect people </h3>
                             <p>Lorem ipsum dolor sit ____, consectetur adipisicing elit. Molestias ___ nulla placeat, odio </p>
-                            <svg className="bg-icon" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" width="50px" height="50px">
+                            <svg className="bg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="50px" height="50px">
                                 <g>
                                     <g>
                                         <path d="M319.008,281.931c-1.861-1.86-4.44-2.93-7.07-2.93c-2.64,0-5.21,1.069-7.069,2.93c-1.87,1.86-2.931,4.44-2.931,7.07    s1.061,5.21,2.931,7.069c1.859,1.86,4.439,2.931,7.069,2.931s5.21-1.07,7.07-2.931c1.86-1.859,2.93-4.439,2.93-7.069    S320.869,283.791,319.008,281.931z"></path>
@@ -249,7 +249,7 @@ export default function HowToSection() {
                     </div>
                     <div className="col-lg-4 text-center">
                         <div className="process-box">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" width="60px" height="60px">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="60px" height="60px">
                                 <g>
                                     <g>
                                         <path d="M390.088,270.897c-1.86-1.86-4.442-2.93-7.071-2.93c-2.63,0-5.211,1.07-7.071,2.93c-1.86,1.86-2.93,4.441-2.93,7.071    s1.07,5.211,2.93,7.071c1.86,1.86,4.441,2.93,7.071,2.93s5.211-1.07,7.071-2.93c1.86-1.86,2.93-4.441,2.93-7.071    S391.948,272.757,390.088,270.897z"></path>
@@ -288,7 +288,7 @@ export default function HowToSection() {
                             </svg>
                             <h3>enjoy app </h3>
                             <p>Lorem ipsum dolor sit ____, consectetur adipisicing elit. Molestias ___ nulla placeat, odio </p>
-                            <svg className="bg-icon" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" width="50px" height="50px">
+                            <svg className="bg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="50px" height="50px">
                                 <g>
                                     <g>
                                         <path d="M390.088,270.897c-1.86-1.86-4.442-2.93-7.071-2.93c-2.63,0-5.211,1.07-7.071,2.93c-1.86,1.86-2.93,4.441-2.93,7.071    s1.07,5.211,2.93,7.071c1.86,1.86,4.441,2.93,7.071,2.93s5.211-1.07,7.071-2.93c1.86-1.86,2.93-4.441,2.93-7.071    S391.948,272.757,390.088,270.897z"></path>
