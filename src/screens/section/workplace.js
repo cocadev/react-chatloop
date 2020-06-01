@@ -16,9 +16,7 @@ export default function WorkPlaceSection() {
             </div>
             <div className="col-md-12">
               <div className="team-slider owl-carousel owl-theme">
-                <WorkAtom i={1}/>  
-                <WorkAtom i={2}/>  
-                <WorkAtom i={3}/>  
+                {[1,2,3,4,5,6,7,8,9,10].map((item, index)=><WorkAtom key={index} i={item}/> )}
               </div>
             </div>
             <WorkHoverAtom i={i}/>

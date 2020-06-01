@@ -1,14 +1,15 @@
 import React from 'react';
 
 export function WorkAtom(props) {
+    const { i, onClick } = props;
     return (
         <div className="item">
             <div className="team-box">
                 <div className="team-under-box">
-                    <div className="team-under-box-button text-white">
+                    <div className="team-under-box-button text-white" onClick={onClick}>
                         <i className="fa fa-plus" aria-hidden="true"></i>
                     </div>
-                    <img className="img-fluid" src={`images/webs/${props.i}.jpg`} alt={`${props.i}`} />
+                    <img className="img-fluid" src={`images/webs/${i}.jpg`} alt={`${i}`} />
                     <div className="team-overlay">
                         <div className="social-icon">
                             <ul>
