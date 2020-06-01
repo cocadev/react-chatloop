@@ -8,7 +8,7 @@ export function WorkAtom(props) {
                     <div className="team-under-box-button text-white">
                         <i className="fa fa-plus" aria-hidden="true"></i>
                     </div>
-                    <img className="img-fluid" src={`images/${props.i}.jpg`} alt={`${props.i}`} />
+                    <img className="img-fluid" src={`images/webs/${props.i}.jpg`} alt={`${props.i}`} />
                     <div className="team-overlay">
                         <div className="social-icon">
                             <ul>
@@ -33,7 +33,7 @@ export function WorkHoverAtom(props) {
             <div className="team-hover">
                 <div className="row">
                     <div className="col-md-4">
-                        <div className="team-profile"><img className="img-fluid" src={`images/${props.i}.jpg`} alt={`${props.i}`} /></div>
+                        <div className="team-profile"><img className="img-fluid" src={`images/webs/${props.i}.jpg`} alt={`${props.i}`} /></div>
                     </div>
                     <div className="col-md-8">
                         <div className="d-flex-1">
